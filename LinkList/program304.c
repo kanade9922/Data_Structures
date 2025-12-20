@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+#pragma pack(1)
 struct node
 {
     int data;
@@ -9,8 +10,8 @@ struct node
 int main()
 {
     struct node obj;
-
-    printf("%ld\n",sizeof(obj));
     
+    printf("%ld\n", sizeof(obj));
+
     return 0;
 }
