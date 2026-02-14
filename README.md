@@ -14,6 +14,7 @@ This repository is created for practice purposes to learn and implement basic Da
 * Queues
 * Trees
 * Hash Tables
+* BST(Binary Search Tree)
 
 ## Purpose
 
