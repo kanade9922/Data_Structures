@@ -4,7 +4,7 @@
 
 ## About
 
-This repository is created for practice purposes to learn and implement basic Data Structures and Algorithms.
+**This repository is created for practice purposes to learn and implement basic Data Structures and Algorithms**
 
 ## Topics Covered
 
