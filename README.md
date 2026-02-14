@@ -1,5 +1,3 @@
-# Data_Structures
-
 # Data Structures Practice
 
 ## About
