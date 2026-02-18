@@ -4,7 +4,7 @@
 
 **This repository is created for practice purposes to learn and implement basic Data Structures and Algorithms**
 
-## Topics Covered
+## Topics Covered:
 
 * Arrays
 * Linked Lists
@@ -14,7 +14,7 @@
 * Hash Tables
 * BST(Binary Search Tree)
 
-## Purpose
+## Purpose:
 
 * To understand core data structure concepts
 * To improve problem-solving skills
