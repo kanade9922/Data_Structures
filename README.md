@@ -1,4 +1,4 @@
-# Data Structures Practice
+# Data Structures Pratice
 
 ## About
 
