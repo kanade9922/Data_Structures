@@ -10,7 +10,7 @@
 * Linked Lists
 * Stacks
 * Queues
-* Trees
+* Tress
 * Hash Tables
 * BST(Binary Search Tree)
 * Sorting Algorithms(Bubble, Insertion, Selection)
