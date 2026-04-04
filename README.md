@@ -17,7 +17,7 @@
 
 ## Purpose:
 
-* To understand core data structure concepts
+* To understand core data structure concepts 
 * To improve problem-solving skills
 * For academic and self-learning practice
 
