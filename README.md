@@ -19,7 +19,7 @@
 
 * To understand core data structure concepts 
 * To improve problem-solving skills
-* For academic and self-learning practice
+* For academic and self-learning pratice
 
 ## Language Used
 
